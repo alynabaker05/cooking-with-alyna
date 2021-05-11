@@ -57,7 +57,7 @@
     "gatsby-source-flotiq": "git+https://github.com/flotiq/gatsby-source-flotiq.git",
     "gatsby-source-ghost": "4.0.4",
     "gatsby-transformer-sharp": "2.3.16",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-helmet": "5.2.1"
